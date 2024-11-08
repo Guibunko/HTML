@@ -1,0 +1,33 @@
+body{
+    background-color: purple;
+    color: #cfcfcf;;
+    padding: 3%;
+}
+
+section {
+    background: #FF6D5E;
+    padding-top: 5%;
+    padding-bottom:5%;
+    padding-left: 5%;
+    padding-right: 5%;
+    display: flex;
+    justify-content: center;
+}
+
+
+.chamada_texto{
+    margin-right: 5%;
+    color: #000000;
+}
+.video{
+    border-radius= 50px;
+}
+img{
+    height: 200px;
+}
+
+.categoria-videos{
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
